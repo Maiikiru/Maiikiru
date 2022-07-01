@@ -1,5 +1,5 @@
-# Hi there <img src="https://github.com/Maiikiru/Maiikiru/blob/ccb44489f32b18555270afaf696b88f8bdd3f21a/wave.gif" width="35" height="35"/>
-![](https://github.com/Maiikiru/Maiikiru/blob/004cf18a0f81ad7a3e32bbb2f80a3ea94a72470f/header_white_.png)
+# Hi there <img src="https://github.com/Maiikiru/Maiikiru/blob/7f535f0c1e9901df77e0655eec4a06a6d0c577e2/wave.gif" width="35" height="35"/>
+![](https://github.com/Maiikiru/Maiikiru/blob/7f535f0c1e9901df77e0655eec4a06a6d0c577e2/header_white_.png)
 
 I am a Highly motivated full stack software developer, with experience working individually and in teams; always up for a new challenge.
 
