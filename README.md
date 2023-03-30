@@ -1,7 +1,8 @@
 # Hi there <img src="https://github.com/Maiikiru/Maiikiru/blob/7f535f0c1e9901df77e0655eec4a06a6d0c577e2/wave.gif" width="35" height="35"/>
 ![](https://github.com/Maiikiru/Maiikiru/blob/7f535f0c1e9901df77e0655eec4a06a6d0c577e2/header_white_.png)
 
-I am a Highly motivated full stack software developer, with experience working individually and in teams; always up for a new challenge.
+I am a Highly motivated full stack software developer, with experience working individually and in teams; always up for a new challenge.  
+I also have a website at: [My Website](https://maiikiru.github.io/)
 
 ---
 
