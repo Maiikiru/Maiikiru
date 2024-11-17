@@ -6,14 +6,28 @@ I also have a website at: [My Website](https://maiikiru.github.io/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### ⚙️ Languages and Frameworks:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Java" alt="Android Studio" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Android Studio" alt="Android Studio" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="60" height="60"/>&nbsp;
+</div>
+
+### 🔧 Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg", title="Docker" width="75" height="75" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg", title="MySQL" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" height="60" width="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" height="75" width="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" height="75" width="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" height="75" width="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Linux" height="75" width="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="Linux" height="60" width="60"/>&nbsp;
 </div>
 
 ---
